@@ -1,0 +1,31 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.5",
+  "author": {
+    "name": "umut atilla め",
+    "id": "720608118823845899"
+  },
+  "contributors": [
+    {
+      "name": "Mordor",
+      "id": "853150401548255313"
+    }
+  ],
+  "service": "RunoCC",
+  "description": {
+    "en": "Make Friends & Chat With Millions In A Virtual World",
+    "tr": "Müthiş İnsanlarla Dolu İlginç Bir Yer",
+    "nl": "Vrienden maken en chatten met miljoenen in een virtuele wereld"
+  },
+  "url": "runo.cc",
+  "version": "2.1.8",
+  "logo": "https://i.imgur.com/0ZL1dXI.png",
+  "thumbnail": "https://i.hizliresim.com/ojorqf1.png",
+  "color": "#ffff00",
+  "tags": [
+    "runo",
+    "habbo",
+    "sanal-oyun",
+    "sanal-game"
+  ],
+  "category": "games"
+}
